@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Rachel/Documents/Unreal Projects/BodyRebuild/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Rachel/Documents/Unreal Projects/BodyRebuild/Content/Blueprints/VRIKPawn.uasset",
+				"C:/Users/Rachel/Documents/Unreal Projects/BodyRebuild/Content/ControlRig/Characters/Mannequins/Rigs/NewAnimBlueprint.uasset"
+			]
+		}
+	]
+}
