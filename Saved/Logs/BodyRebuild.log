@@ -1354,3 +1354,4 @@ The following settings have been applied:
 [2024.02.08-16.56.23:823][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms
 [2024.02.08-16.56.23:824][389]AssetCheck: New page: Asset Save: NewAnimBlueprint
 [2024.02.08-16.56.23:824][389]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ControlRig/Characters/Mannequins/Rigs/NewAnimBlueprint.NewAnimBlueprint
+[2024.02.08-17.23.59:243][964]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
