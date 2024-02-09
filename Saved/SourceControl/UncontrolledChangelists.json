@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rache/BodyRebuilt/Content/ControlRig/Characters/Mannequins/Rigs/NewAnimBlueprint.uasset",
+				"C:/Users/rache/BodyRebuilt/Content/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_ProceduralCOPY.uasset",
 				"C:/Users/Rachel/Documents/Unreal Projects/BodyRebuild/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Rachel/Documents/Unreal Projects/BodyRebuild/Content/Blueprints/VRIKPawn.uasset",
 				"C:/Users/Rachel/Documents/Unreal Projects/BodyRebuild/Content/ControlRig/Characters/Mannequins/Rigs/NewAnimBlueprint.uasset"
